@@ -1,2 +1,625 @@
-# open-source-projects-for-contributions
-repo with a list of projects and organizations that are friendly to contributions, along with quick links to relevant documents you should reference before contributing
+# Projects
+
+This file contains a list of projects and organizations that are friendly to contributions, along with quick links to relevant documents you should reference before contributing.
+
+## Useful
+
+  - `[lossless-cut](https://github.com/mifi/lossless-cut)` (project) - Lossless video cutting tool
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/mifi/lossless-cut/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/mifi/lossless-cut/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[HandBrake](https://github.com/HandBrake/HandBrake)` (project) - Video transcoder
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/HandBrake/HandBrake/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/HandBrake/HandBrake/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[untrunc](https://github.com/ponchio/untrunc)` (project) - Restore damaged video files
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/ponchio/untrunc/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ponchio/untrunc/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ShareX](https://github.com/ShareX/ShareX)` (project) - Screen capture tool for Windows
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/ShareX/ShareX/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ShareX/ShareX/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[zipline](https://github.com/diced/zipline)` (project) - ShareX/file upload server
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/diced/zipline/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/diced/zipline/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[CopyQ](https://github.com/hluk/CopyQ)` (project) - Cross-platform clipboard manager
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/hluk/CopyQ/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/hluk/CopyQ/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[flameshot](https://github.com/flameshot-org/flameshot)` (project) - Cross-platform screenshot tool
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/flameshot-org/flameshot/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/flameshot-org/flameshot/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Files](https://github.com/files-community/Files)` (project) - Modern file manager for Windows
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/files-community/Files/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/files-community/Files/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[localsend](https://github.com/localsend/localsend)` (project) - Cross-platform alternative to AirDrop
+      - [Contributing Guide](https://github.com/localsend/localsend/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/localsend/localsend/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[send](https://github.com/timvisee/send)` (project) - Quick encrypted file sharing
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/timvisee/send/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/timvisee/send/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[UxPlay](https://github.com/FDH2/UxPlay)` (project) - Cross-platform AirPlay server
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/FDH2/UxPlay/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/FDH2/UxPlay/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[wolfree](https://github.com/wolfree)` (project) - WolframAlpha but free
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/wolfree/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/wolfree/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Grayjay.Desktop](https://github.com/futo-org/Grayjay.Desktop)` (project) - All-in-1 media platform app
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/futo-org/Grayjay.Desktop/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/futo-org/Grayjay.Desktop/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[cobalt](https://github.com/imputnet/cobalt)` (project) - Media downloader
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/imputnet/cobalt/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/imputnet/cobalt/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[rustdesk](https://github.com/rustdesk/rustdesk)` (project) - Remote desktop application
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/rustdesk/rustdesk/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/rustdesk/rustdesk/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[sniffnet](https://github.com/GyulyVGC/sniffnet)` (project) - Cross-platform network traffic monitor
+      - [Contributing Guide](https://github.com/GyulyVGC/sniffnet/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/GyulyVGC/sniffnet/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)` (project) - Extensive text editor for Windows
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/notepad-plus-plus/notepad-plus-plus/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/notepad-plus-plus/notepad-plus-plus/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[NotepadNext](https://github.com/dail8859/NotepadNext)` (project) - Cross-platform reimplementation of Notepad++
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/dail8859/NotepadNext/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/dail8859/NotepadNext/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[kando](https://github.com/kando-menu/kando)` (project) - Cross-platform pie menu launcher
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/kando-menu/kando/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://github.com/kando-menu/kando/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+  - `[Cap](https://github.com/CapSoftware/Cap)` (project) - Screen capture sharing
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/CapSoftware/Cap/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/CapSoftware/Cap/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Sunshine](https://github.com/LizardByte/Sunshine)` (project) - Self-hosted game stream host for Moonlight
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/LizardByte/Sunshine/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/LizardByte/Sunshine/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[rufus](https://github.com/pbatard/rufus)` (project) - USB formatting utility
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/pbatard/rufus/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/pbatard/rufus/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[zws](https://github.com/zws-im/zws)` (project) - Zero width link shortener
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/zws-im/zws/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/zws-im/zws/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[dub](https://github.com/dubinc/dub)` (project) - Link shortener and management
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/dubinc/dub/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/dubinc/dub/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[activitywatch](https://github.com/ActivityWatch/activitywatch)` (project) - Automated activity time tracker
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/ActivityWatch/activitywatch/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ActivityWatch/activitywatch/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Soundux](https://github.com/Soundux/Soundux)` (project) - Cross-platform soundboard
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Soundux/Soundux/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Soundux/Soundux/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[stegcloak](https://github.com/kurolabs/stegcloak)` (project) - Create hidden messages
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/kurolabs/stegcloak/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/kurolabs/stegcloak/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[antimicrox](https://github.com/AntiMicroX/antimicrox)` (project) - Map keyboard and mouse to gamepad controls
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/AntiMicroX/antimicrox/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/AntiMicroX/antimicrox/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Weylus](https://github.com/H-M-H/Weylus)` (project) - Use tablet as graphic tablet/touch screen
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/H-M-H/Weylus/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/H-M-H/Weylus/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)` (project) - App launcher for Windows
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Flow-Launcher/Flow.Launcher/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Flow-Launcher/Flow.Launcher/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[gauntlet](https://github.com/project-gauntlet/gauntlet)` (project) - Cross-platform application launcher
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/project-gauntlet/gauntlet/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/project-gauntlet/gauntlet/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[KeysPerSecond](https://github.com/RoanH/KeysPerSecond)` (project) - Keys per second counter overlay
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/RoanH/KeysPerSecond/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/RoanH/KeysPerSecond/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ytmdl](https://github.com/deepjyoti30/ytmdl)` (project) - Download music from YouTube attached with metadata
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/deepjyoti30/ytmdl/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/deepjyoti30/ytmdl/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ytmdl-web-v2](https://github.com/deepjyoti30/ytmdl-web-v2)` (project) - Ytmdl web app version
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/deepjyoti30/ytmdl-web-v2/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/deepjyoti30/ytmdl-web-v2/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[WebDeck](https://github.com/Lenochxc/WebDeck)` (project) - Web-based StreamDeck alternative
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Lenochxc/WebDeck/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Lenochxc/WebDeck/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[server](https://github.com/nextcloud/server)` (project) - (Self-hosted) Cloud storage service
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/nextcloud/server/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/nextcloud/server/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Ventoy](https://github.com/ventoy/Ventoy)` (project) - Bootable USB solution
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/ventoy/Ventoy/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ventoy/Ventoy/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[organicmaps](https://github.com/organicmaps/organicmaps)` (project) - Offline maps app using OpenStreetMap
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/organicmaps/organicmaps/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/organicmaps/organicmaps/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[CCStopper](https://github.com/t4rra/CCStopper)` (project) - Stops Adobe's background apps
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/t4rra/CCStopper/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/t4rra/CCStopper/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[signalapp](https://github.com/signalapp)` (project) - Cross-platform private messenger
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/signalapp/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/signalapp/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[deskreen](https://github.com/pavlobu/deskreen)` (project) - Turn web browser into a secondary screen
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/pavlobu/deskreen/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/pavlobu/deskreen/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[it-tools](https://github.com/CorentinTh/it-tools)` (project) - Collection of handy online tools
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/CorentinTh/it-tools/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/CorentinTh/it-tools/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[DevToys](https://github.com/DevToys-app/DevToys)` (project) - Cross-platform bundle of tools for doing quick tasks
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/DevToys-app/DevToys/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/DevToys-app/DevToys/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[handwrite](https://github.com/builtree/handwrite)` (project) - Generate a custom font based on your handwriting sample
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/builtree/handwrite/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/builtree/handwrite/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[rymdport](https://github.com/Jacalz/rymdport)` (project) - Cross-platform file sharing between devices
+      - [Contributing Guide](https://github.com/Jacalz/rymdport/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Jacalz/rymdport/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[PolyUploader](https://github.com/spel987/PolyUploader)` (project) - Upload your files to different hosts
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/spel987/PolyUploader/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/spel987/PolyUploader/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[phone-as-webcam](https://github.com/didier/phone-as-webcam)` (project) - Use phone camera as a webcam via OBS Virtual Camera
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/didier/phone-as-webcam/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/didier/phone-as-webcam/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[bleachbit](https://github.com/bleachbit/bleachbit)` (project) - System cleaner for Windows and Linux
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/bleachbit/bleachbit/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/bleachbit/bleachbit/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[PeaZip](https://github.com/peazip/PeaZip)` (project) - Cross-platform file and archive manager
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/peazip/PeaZip/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/peazip/PeaZip/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[upscayl](https://github.com/upscayl/upscayl)` (project) - Cross-platform AI image upscaler
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/upscayl/upscayl/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/upscayl/upscayl/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Depix](https://github.com/spipm/Depix)` (project) - Recovers passwords from pixelized screenshots
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/spipm/Depix/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/spipm/Depix/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[kanata](https://github.com/jtroo/kanata)` (project) - Cross-platform keyboard remapper
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/jtroo/kanata/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/jtroo/kanata/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+
+## Backup/Sync
+
+  - `[rsync](https://github.com/RsyncProject/rsync)` (project) - Incremental file transfer tool
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/RsyncProject/rsync/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/RsyncProject/rsync/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[warpinator](https://github.com/linuxmint/warpinator)` (project) - Send/receive files across local network
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/linuxmint/warpinator/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/linuxmint/warpinator/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[rclone](https://github.com/rclone/rclone)` (project) - rsync for cloud storage
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/rclone/rclone/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/rclone/rclone/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[timeshift](https://github.com/linuxmint/timeshift)` (project) - System restore tool for Linux
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/linuxmint/timeshift/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/linuxmint/timeshift/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[aconfmgr](https://github.com/CyberShadow/aconfmgr)` (project) - Config manager for Arch Linux
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/CyberShadow/aconfmgr/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/CyberShadow/aconfmgr/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[yas-bdsm](https://github.com/sebastiancarlos/yas-bdsm)` (project) - Stow-based dotfiles manager
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/sebastiancarlos/yas-bdsm/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/sebastiancarlos/yas-bdsm/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[yadm](https://github.com/Thelocehilioson/yadm)` (project) - Git-based dotfiles manager
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Thelocehilioson/yadm/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Thelocehilioson/yadm/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+
+## Customizations
+
+### Windows
+
+  - `[Seelen-UI](https://github.com/eythaann/Seelen-UI)` (project) - Customizable Windows Desktop Environment
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/eythaann/Seelen-UI/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/eythaann/Seelen-UI/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[rainmeter](https://github.com/rainmeter/rainmeter)` (project) - Windows desktop customization tool
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/rainmeter/rainmeter/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/rainmeter/rainmeter/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Jax-Core](https://github.com/Jax-Core)` (project) - Rainmeter widgets
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Jax-Core/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Jax-Core/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[lively](https://github.com/rocksdanister/lively)` (project) - Animated wallpaper utility
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/rocksdanister/lively/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/rocksdanister/lively/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[SecureUxTheme](https://github.com/namazso/SecureUxTheme)` (project) - UxTheme patcher for Windows
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/namazso/SecureUxTheme/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/namazso/SecureUxTheme/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Windows-10-themes](https://github.com/niivu/Windows-10-themes)` (project) - Themes for Windows 10
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/niivu/Windows-10-themes/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/niivu/Windows-10-themes/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Windows-11-themes](https://github.com/niivu/Windows-11-themes)` (project) - Themes for Windows 11
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/niivu/Windows-11-themes/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/niivu/Windows-11-themes/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[windows-customization-extras](https://github.com/sColpx/windows-customization-extras)` (project) - Windows application skins
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/sColpx/windows-customization-extras/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/sColpx/windows-customization-extras/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[DateToday](https://github.com/JosiahDanger/DateToday)` (project) - Configurable desktop date/time widget
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/JosiahDanger/DateToday/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/JosiahDanger/DateToday/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+
+### Linux
+
+  - `[dots-hyprland](https://github.com/end-4/dots-hyprland)` (project) - Hyprland dots
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/end-4/dots-hyprland/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/end-4/dots-hyprland/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[HyDE](https://github.com/HyDE-Project/HyDE)` (project) - Hyprland dots
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/HyDE-Project/HyDE/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/HyDE-Project/HyDE/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme)` (project) - Grub bootloader themes
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Coopydood/HyperFluent-GRUB-Theme/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Coopydood/HyperFluent-GRUB-Theme/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[aerial-sddm-theme](https://github.com/3ximus/aerial-sddm-theme)` (project) - SDDM login theme
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/3ximus/aerial-sddm-theme/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/3ximus/aerial-sddm-theme/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[sddm-astronaut-theme](https://github.com/Keyitdev/sddm-astronaut-theme)` (project) - Astronaut SDDM theme
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Keyitdev/sddm-astronaut-theme/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Keyitdev/sddm-astronaut-theme/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[where-is-my-sddm-theme](https://github.com/stepanzubkov/where-is-my-sddm-theme)` (project) - Minimal SDDM theme
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/stepanzubkov/where-is-my-sddm-theme/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/stepanzubkov/where-is-my-sddm-theme/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme)` (project) - GTK theme
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/vinceliuice/Colloid-gtk-theme/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/vinceliuice/Colloid-gtk-theme/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[eww](https://github.com/elkowar/eww)` (project) - Linux desktop widgets
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/elkowar/eww/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/elkowar/eww/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ags](https://github.com/Aylur/ags)` (project) - Linux Wayland desktop widgets
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Aylur/ags/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Aylur/ags/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[hyprfabricated](https://github.com/tr1xem/hyprfabricated)` (project) - Shell for Hyprland
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/tr1xem/hyprfabricated/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/tr1xem/hyprfabricated/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[conky](https://github.com/brndnmtthws/conky)` (project) - Linux X11 desktop widgets
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/brndnmtthws/conky/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/brndnmtthws/conky/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Gradience](https://github.com/GradienceTeam/Gradience)` (project) - GTK theming tool
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/GradienceTeam/Gradience/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/GradienceTeam/Gradience/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine)` (project) - Run Wallpaper Engine wallpapers on Linux
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Almamu/linux-wallpaperengine/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Almamu/linux-wallpaperengine/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin)` (project) - Wallpaper Engine for KDE
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/catsout/wallpaper-engine-kde-plugin/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/catsout/wallpaper-engine-kde-plugin/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Themecord](https://github.com/danihek/Themecord)` (project) - Discord theme matching wallpaper
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/danihek/Themecord/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/danihek/Themecord/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Waypaper-Engine](https://github.com/0bCdian/Waypaper-Engine)` (project) - Wayland wallpaper setter GUI
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/0bCdian/Waypaper-Engine/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/0bCdian/Waypaper-Engine/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[vibe](https://github.com/TornaxO7/vibe)` (project) - Wayland shader & audio viz wallpapers
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/TornaxO7/vibe/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/TornaxO7/vibe/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+
+### Other
+
+  - `[WallMod](https://github.com/DefrimBinakaj/WallMod)` (project) - Windows/Linux wallpaper management tool
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/DefrimBinakaj/WallMod/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/DefrimBinakaj/WallMod/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[starship](https://github.com/starship/starship)` (project) - Custom shell prompt
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/starship/starship/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/starship/starship/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ShyFox](https://github.com/Naezr/ShyFox)` (project) - Hidden element Firefox theme
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Naezr/ShyFox/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Naezr/ShyFox/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)` (project) - Firefox theme
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/datguypiko/Firefox-Mod-Blur/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/datguypiko/Firefox-Mod-Blur/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[textfox](https://github.com/adriankarlen/textfox)` (project) - TUI-style Firefox theme
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/adriankarlen/textfox/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/adriankarlen/textfox/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[system24](https://github.com/refact0r/system24)` (project) - TUI-style Discord theme
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/refact0r/system24/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/refact0r/system24/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim)` (project) - Neovim theme
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/nyoom-engineering/oxocarbon.nvim/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/nyoom-engineering/oxocarbon.nvim/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[NvChad](https://github.com/NvChad/NvChad)` (project) - Neovim config
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/NvChad/NvChad/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/NvChad/NvChad/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Everblush](https://github.com/Everblush)` (project) - Dark vibrant color scheme
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Everblush/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Everblush/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[.tmux](https://github.com/gpakosz/.tmux)` (project) - tmux config
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/gpakosz/.tmux/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/gpakosz/.tmux/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[FastCat](https://github.com/m3tozz/FastCat)` (project) - FastFetch theme pack
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/m3tozz/FastCat/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/m3tozz/FastCat/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[gowall](https://github.com/Achno/gowall)` (project) - Convert a wallpaper's color scheme/palette
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Achno/gowall/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Achno/gowall/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam)` (project) - GNOME-like Steam skin
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/tkashkin/Adwaita-for-Steam/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/tkashkin/Adwaita-for-Steam/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+
+## Awesome Lists
+
+  - `[awesome-windows](https://github.com/Lumaeris/awesome-windows)` (project) - List of useful Windows tools/apps
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Lumaeris/awesome-windows/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Lumaeris/awesome-windows/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[awesome-macOS](https://github.com/iCHAIT/awesome-macOS)` (project) - List of MacOS resources
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/iCHAIT/awesome-macOS/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/iCHAIT/awesome-macOS/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[awesome-privacy](https://github.com/lissy93/awesome-privacy)` (project) - List of privacy/security-focused software & services
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/lissy93/awesome-privacy/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/lissy93/awesome-privacy/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[awesome-privacy](https://github.com/pluja/awesome-privacy)` (project) - List of privacy-focused services
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/pluja/awesome-privacy/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/pluja/awesome-privacy/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[awesome-vscode](https://github.com/viatsko/awesome-vscode)` (project) - List of VS Code packages and resources
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/viatsko/awesome-vscode/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/viatsko/awesome-vscode/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland)` (project) - List of useful Hyprland tools
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/hyprland-community/awesome-hyprland/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/hyprland-community/awesome-hyprland/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)` (project) - List of command line apps
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/agarrharr/awesome-cli-apps/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/agarrharr/awesome-cli-apps/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[modern-unix](https://github.com/ibraheemdev/modern-unix)` (project) - List of modern UNIX CLI tools
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/ibraheemdev/modern-unix/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ibraheemdev/modern-unix/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Clone-Wars](https://github.com/GoryGoyl/Clone-Wars)` (project) - List of open source clones of popular sites
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/GoryGoyl/Clone-Wars/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/GoryGoyl/Clone-Wars/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[awesome-mpv](https://github.com/stax76/awesome-mpv)` (project) - List of mpv resources
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/stax76/awesome-mpv/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/stax76/awesome-mpv/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Pop_OS-Guide](https://github.com/mikeroyal/Pop_OS-Guide)` (project) - "Guide" for starting on Pop\!\_OS
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/mikeroyal/Pop_OS-Guide/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/mikeroyal/Pop_OS-Guide/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[awesome-areweyet](https://github.com/avidseeker/awesome-areweyet)` (project) - Current adoption status of various technologies
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/avidseeker/awesome-areweyet/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/avidseeker/awesome-areweyet/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+
+## Command Line Tools
+
+  - `[kitty](https://github.com/kovidgoyal/kitty)` (project) - Extensible GPU accelerated terminal
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/kovidgoyal/kitty/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/kovidgoyal/kitty/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[alacritty](https://github.com/alacritty/alacritty)` (project) - Extensible GPU accelerated terminal
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/alacritty/alacritty/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/alacritty/alacritty/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ghostty](https://github.com/ghostty-org/ghostty)` (project) - Feature rich, GPU accelerated terminal
+      - [Contributing Guide](https://github.com/ghostty-org/ghostty/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ghostty-org/ghostty/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[bat](https://github.com/sharkdp/bat)` (project) - Better cat
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/sharkdp/bat/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/sharkdp/bat/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ripgrep](https://github.com/BurntSushi/ripgrep)` (project) - Fast line-oriented search tool
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/BurntSushi/ripgrep/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/BurntSushi/ripgrep/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ripgrep-all](https://github.com/phiresky/ripgrep-all)` (project) - ripgrep for various file types
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/phiresky/ripgrep-all/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/phiresky/ripgrep-all/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[z](https://github.com/rupa/z)` (project) - Better directory navigation using frecency
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/rupa/z/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/rupa/z/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[zoxide](https://github.com/ajeetdsouza/zoxide)` (project) - Smarter directory navigation based on z
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/ajeetdsouza/zoxide/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ajeetdsouza/zoxide/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[bandwhich](https://github.com/imsnif/bandwhich)` (project) - Bandwidth utilization monitoring
+      - [Contributing Guide](https://github.com/imsnif/bandwhich/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/imsnif/bandwhich/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[btop](https://github.com/aristocratos/btop)` (project) - System resource monitoring
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/aristocratos/btop/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/aristocratos/btop/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[uwufetch](https://github.com/ad-oliviero/uwufetch)` (project) - neofetch but uwu
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/ad-oliviero/uwufetch/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ad-oliviero/uwufetch/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[fastfetch](https://github.com/fastfetch-cli/fastfetch)` (project) - neofetch but fast, maintained, and more customizable
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/fastfetch-cli/fastfetch/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/fastfetch-cli/fastfetch/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[gitfetch](https://github.com/FabricSoul/gitfetch)` (project) - neofetch but for git contributions
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/FabricSoul/gitfetch/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/FabricSoul/gitfetch/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[thefuck](https://github.com/nvbn/thefuck)` (project) - Corrects your previous command
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/nvbn/thefuck/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/nvbn/thefuck/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[didyoumean](https://github.com/hisbaan/didyoumean)` (project) - Corrects your previous command
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/hisbaan/didyoumean/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/hisbaan/didyoumean/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[pacstall](https://github.com/pacstall/pacstall)` (project) - AUR-inspired package manager for Ubuntu
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/pacstall/pacstall/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/pacstall/pacstall/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[tmux](https://github.com/tmux/tmux)` (project) - Terminal multiplexer
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/tmux/tmux/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/tmux/tmux/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[byobu](https://github.com/dustinkirkland/byobu)` (project) - Terminal multiplexer
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/dustinkirkland/byobu/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/dustinkirkland/byobu/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[Clipboard](https://github.com/Slackadays/Clipboard)` (project) - Smart clipboard manager
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Slackadays/Clipboard/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Slackadays/Clipboard/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[lsd](https://github.com/lsd-rs/lsd)` (project) - ls with colors, formatting, icons, etc.
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/lsd-rs/lsd/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/lsd-rs/lsd/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[zf](https://github.com/natecraddock/zf)` (project) - Filepath fuzzy finder
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/natecraddock/zf/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/natecraddock/zf/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[play](https://github.com/paolozzari/play)` (project) - Terminal playground
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/paolozzari/play/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/paolozzari/play/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[freeze](https://github.com/charmbracelet/freeze)` (project) - Screenshot your terminal
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/charmbracelet/freeze/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/charmbracelet/freeze/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[termshot](https://github.com/homeport/termshot)` (project) - Capture terminal output
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/homeport/termshot/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/homeport/termshot/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[tldr](https://github.com/tldr-pages/tldr)` (project) - Simpler manpages
+      - [Contributing Guide](https://github.com/tldr-pages/tldr/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/tldr-pages/tldr/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[tealdeer](https://github.com/tealdeer-rs/tealdeer)` (project) - tldr client in Rust
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/tealdeer-rs/tealdeer/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/tealdeer-rs/tealdeer/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[outfieldr](https://github.com/ve-nt/outfieldr)` (project) - tldr client in Zig
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/ve-nt/outfieldr/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ve-nt/outfieldr/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)` (project) - Task list management utility
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/GothenburgBitFactory/taskwarrior/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://github.com/GothenburgBitFactory/taskwarrior/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+  - `[better-commits](https://github.com/Everduin94/better-commits)` (project) - Better git commits following conventional commits spec
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Everduin94/better-commits/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Everduin94/better-commits/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[gh-cp](https://github.com/MohamedElashri/gh-cp)` (project) - GitHub CLI extension to copy files without cloning
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/MohamedElashri/gh-cp/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/MohamedElashri/gh-cp/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)` (project) - Convert images to ascii art
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/TheZoraiz/ascii-image-converter/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/TheZoraiz/ascii-image-converter/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ffsend](https://github.com/timvisee/ffsend)` (project) - Share files from the command line using Send
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/timvisee/ffsend/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/timvisee/ffsend/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[monolith](https://github.com/Y2Z/monolith)` (project) - Save webpage as a single HTML file
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/Y2Z/monolith/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/Y2Z/monolith/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[coreutils](https://github.com/uutils/coreutils)` (project) - Rust rewrite of GNU coreutils
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/uutils/coreutils/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://github.com/uutils/coreutils/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+  - `[hyperfine](https://github.com/sharkdp/hyperfine)` (project) - Command line benchmarking tool
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/sharkdp/hyperfine/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/sharkdp/hyperfine/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+
+## Oh-My
+
+  - `[oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)` (project) - Cross-shell prompt
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/JanDeDobbeleer/oh-my-posh/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)` (project)
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/oh-my-fish/oh-my-fish/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/oh-my-fish/oh-my-fish/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[oh-my-bash](https://github.com/ohmybash/oh-my-bash)` (project)
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/ohmybash/oh-my-bash/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ohmybash/oh-my-bash/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
+  - `[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)` (project)
+      - [Contributing Guide](https://www.google.com/search?q=https://github.com/ohmyzsh/ohmyzsh/blob/main/CONTRIBUTING.md)
+      - Issue labels:
+          - [good first issue](https://www.google.com/search?q=https://github.com/ohmyzsh/ohmyzsh/issues%3Fq%3Dis%253Aissue%2Bis%253Aopen%2Blabel%253A%2522good%2Bfirst%2Bissue%2522)
